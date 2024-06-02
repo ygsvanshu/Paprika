@@ -33,3 +33,6 @@
 
 # MacOS directory settings
 .DS_Store
+
+# Build directory
+/build
